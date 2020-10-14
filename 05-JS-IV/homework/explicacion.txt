@@ -1,0 +1,16 @@
+* Objetos: Son muy parecidos a los arrays por que ambos con contenedores de datos y a diferencia de los arrays los 
+objetos contienen mucha información sobre una sola cosa y pueden contener dentro una cadena, número, booleano, matriz, función o incluso otro objeto.
+* Propiedades: Cada objeto puede contener una propiedad que vendria ser como un hijo el cual se le puede definir algo 
+por ej: 
+objeto = {
+    nombre : Pepe // nombre seria la propiedad del objeto en este caso
+}
+* Metodos: Basicamente son funciones nada mas que antes los programadores le decian metodos y todavia hay algunos que lo siguen usando asi.
+* Bucle `for…in`: Sirve para recorrer mas que nada objetos por que a diferencia del foor normal este recore espacios que 
+pueden ser palabras en vez de indices numericos.
+* Notación de puntos vs notación de corchetes: Estas dos son para llamas a los nombre o las propiedades dentro de los objetos
+objeto = {
+    nombre : Pepe,
+    apellido : Argento
+}
+objeto.nombre o objeto[nombre] // esas serian las 2 formas de llamar a la propiedad nombre.

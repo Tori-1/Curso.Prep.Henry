@@ -1,0 +1,9 @@
+*for = es un bucle que sirve para hacer tareas repetitivas y esta compuesto por tres parte dentro de 
+la condición : primero crear una variable, segundo determinar hasta donde queres que llegue el bucle
+ y tercero incrementar la variable.
+
+ *&& = estos 3 son operadores logicos pero para booleanos: el && o mejor conocido como AND basicamente para que sea verdadero tiene que pasar que los dos operando sean verdaderos.
+
+ *|| = estos 3 son operadores logicos pero para booleanos: el || o mejor conocido OR es al contrario que el AND por que necesita que los operando sean falsos para que sea falso.
+
+ *! = estos 3 son operadores logicos pero para booleanos: y por ultimo el ! mejor conocido como NOT que basicamente su funcion es cambiar el valor x ej si es verdareo lo va a convertir a falso y biseversa.

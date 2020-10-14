@@ -1,0 +1,2 @@
+*Array = Basicamente son como una caja dnode se almacenan variables, funciones, objetos, numeros, etc. 
+y su orden de posicion son numericos y empiezan desde del numero cero.

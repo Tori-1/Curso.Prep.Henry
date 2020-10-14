@@ -1,0 +1,5 @@
+*Variables = una variable vendria a ser algo  a lo que le das un nombre y se queda ya guardado con ese nobre y lo podes volver a usar cuando vos quieras.
+*Strings = es como una cadena o un hilo de caracteres los cuales pueden ser letras, numeros, signos etc.
+*Funciones = son las que guardan o agrupan variables y tambien tienen *argumentos los cuales son para definir tambien variables nuevas y por ultimo el *return que basicamente lo que hace el devolver lo que haya echo la funcion.
+*Declaraciones IF = la forma mas facil de entender los IF es usarlo como en la vida real en español "if seria como si" por ejemplo if (tal cosa es igual a otra) y luego devolver si esa condicion dentro del if es falsa o verdadera.
+*Valores Booleanos = basicamente hay 2 tipos de booleanos true y false, un ejemplo es crear una variale la cual puede ser igual a 9 y luego preguntar si es mayor a 10 entonces nos va a devolver false y si le ponemos que si es mayor a 5 nos va a devolver true.
